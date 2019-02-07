@@ -37,14 +37,12 @@
     </RadioGroup>
 
     <Button
-        android:id="@+id/btnApply"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:onClick="onClick_btnApply"
         android:text="Set Background Color" />
 
     <Button
-        android:id="@+id/btnClear"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:onClick="onClick_btnClear"
